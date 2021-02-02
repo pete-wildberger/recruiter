@@ -1,0 +1,705 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Vilhelm", "last": "Bakke" },
+      "job_title": "Senior Paradigm Synergist",
+      "location": {
+        "street": { "number": 2439, "name": "Gjerdrums vei" },
+        "city": "Røn",
+        "state": "Nordland",
+        "country": "Norway",
+        "postcode": "4697",
+        "coordinates": { "latitude": "53.7874", "longitude": "-131.7633" },
+        "timezone": { "offset": "+6:00", "description": "Almaty, Dhaka, Colombo" }
+      },
+      "email": "vilhelm.bakke@example.com",
+      "login": {
+        "uuid": "f0c34a7a-dc5b-4bf6-8853-8c1d7e212671",
+        "username": "greenduck595",
+        "password": "lololo",
+        "salt": "2XvTS0yF",
+        "md5": "5521cb2f9a6dba941881fb070162b91d",
+        "sha1": "73599f9972682b4a233bb4e4d088a2f02b70f2b8",
+        "sha256": "210dea616b0cb5d66f8da946d5a59495266093435c65928ac2c7ee1dad5206b0"
+      },
+      "dob": { "date": "1986-07-28T15:24:44.249Z", "age": 34 },
+      "registered": { "date": "2003-05-20T18:34:17.192Z", "age": 17 },
+      "phone": "59101440",
+      "cell": "48694999",
+      "id": { "name": "FN", "value": "28078625351" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/82.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Curtis", "last": "Perry" },
+      "job_title": "National Factors Facilitator",
+      "location": {
+        "street": { "number": 6884, "name": "Ormond Quay" },
+        "city": "Portlaoise",
+        "state": "Limerick",
+        "country": "Ireland",
+        "postcode": 50716,
+        "coordinates": { "latitude": "-33.5128", "longitude": "122.6089" },
+        "timezone": { "offset": "-8:00", "description": "Pacific Time (US & Canada)" }
+      },
+      "email": "curtis.perry@example.com",
+      "login": {
+        "uuid": "af6ffef7-8903-4b2b-9c87-34b9334bb6dd",
+        "username": "happysnake864",
+        "password": "picher",
+        "salt": "msULlnqT",
+        "md5": "eb7756ae63aa5c971d5af08b18842ed3",
+        "sha1": "9cec7a0517ae60836b9da08444599513e6c75bdc",
+        "sha256": "34890fc6f9f27c230bf9c050077c39e833173e439b63c67d3cf42a3a3b19439b"
+      },
+      "dob": { "date": "1945-02-21T02:20:53.651Z", "age": 75 },
+      "registered": { "date": "2013-02-11T21:37:16.434Z", "age": 7 },
+      "phone": "071-196-7548",
+      "cell": "081-579-0308",
+      "id": { "name": "PPS", "value": "1677991T" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/45.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Ray", "last": "Mason" },
+      "job_title": "Human Assurance Facilitator",
+      "location": {
+        "street": { "number": 949, "name": "W Sherman Dr" },
+        "city": "Geraldton",
+        "state": "South Australia",
+        "country": "Australia",
+        "postcode": 8980,
+        "coordinates": { "latitude": "-88.3662", "longitude": "43.9935" },
+        "timezone": { "offset": "+9:30", "description": "Adelaide, Darwin" }
+      },
+      "email": "ray.mason@example.com",
+      "login": {
+        "uuid": "7f1fac97-d8cf-4161-929c-cfe200c8e1e6",
+        "username": "smallleopard533",
+        "password": "vision",
+        "salt": "6r95GPaU",
+        "md5": "1221a8838e29e3b8f6ee5b79cab4effb",
+        "sha1": "270079ddd81922396b5144bb63f4e588cab169c6",
+        "sha256": "84daf2ab9cd0b024190da2b9871e6248c7ed8055c445d26ceead1923d7ea2fc7"
+      },
+      "dob": { "date": "1996-03-11T13:54:29.813Z", "age": 24 },
+      "registered": { "date": "2016-05-09T15:06:51.567Z", "age": 4 },
+      "phone": "09-5836-8554",
+      "cell": "0493-750-073",
+      "id": { "name": "TFN", "value": "670906657" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/16.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Kim", "last": "Johnson" },
+      "job_title": "Chief Optimization Specialist",
+      "location": {
+        "street": { "number": 8114, "name": "King Street" },
+        "city": "City of London",
+        "state": "Lincolnshire",
+        "country": "United Kingdom",
+        "postcode": "KQ5 6NL",
+        "coordinates": { "latitude": "21.8553", "longitude": "99.0627" },
+        "timezone": { "offset": "+6:00", "description": "Almaty, Dhaka, Colombo" }
+      },
+      "email": "kim.johnson@example.com",
+      "login": {
+        "uuid": "e4fe8a0c-fc87-4fc2-b9d5-ad886f5b800b",
+        "username": "sadgorilla994",
+        "password": "blue11",
+        "salt": "oIWBQkUZ",
+        "md5": "ba93e0b4705846ff4a3d2e40691db3c5",
+        "sha1": "aeb965ff231091023fcb581b4e603392874ad51e",
+        "sha256": "dcc8722d38c3c67181735134053ce5f92a543d95ee221dbe012b541657ec9b1e"
+      },
+      "dob": { "date": "1979-03-30T16:32:34.919Z", "age": 41 },
+      "registered": { "date": "2017-02-05T23:20:28.880Z", "age": 3 },
+      "phone": "016977 5366",
+      "cell": "0736-683-557",
+      "id": { "name": "NINO", "value": "EH 38 44 17 H" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/71.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Adam", "last": "Møller" },
+      "job_title": "District Solutions Agent",
+      "location": {
+        "street": { "number": 3171, "name": "Enghaven" },
+        "city": "Vesterborg",
+        "state": "Syddanmark",
+        "country": "Denmark",
+        "postcode": 65729,
+        "coordinates": { "latitude": "-32.7523", "longitude": "41.8393" },
+        "timezone": { "offset": "+2:00", "description": "Kaliningrad, South Africa" }
+      },
+      "email": "adam.moller@example.com",
+      "login": {
+        "uuid": "b1e0a99c-e9d9-47bc-8439-b38c7a2cd2b6",
+        "username": "blacktiger162",
+        "password": "diamond1",
+        "salt": "QPvIEFup",
+        "md5": "c8a3d6bae15c15fb25a9bf25a7347c24",
+        "sha1": "7a879882db3c7e11237bd507de12d8f5439d92b2",
+        "sha256": "89f14fae265a18f4d77a68cc628ff3eefa598bdfbdc799fb4a68bd02f3b29368"
+      },
+      "dob": { "date": "1991-12-03T17:38:53.034Z", "age": 29 },
+      "registered": { "date": "2009-04-09T11:21:41.507Z", "age": 11 },
+      "phone": "08774260",
+      "cell": "77521048",
+      "id": { "name": "CPR", "value": "031291-1566" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/64.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+      },
+      "nat": "DK"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Sofia", "last": "Thompson" },
+      "job_title": "Dynamic Response Representative",
+      "location": {
+        "street": { "number": 9775, "name": "North Street" },
+        "city": "Greymouth",
+        "state": "Bay of Plenty",
+        "country": "New Zealand",
+        "postcode": 61263,
+        "coordinates": { "latitude": "88.9938", "longitude": "50.2009" },
+        "timezone": { "offset": "-6:00", "description": "Central Time (US & Canada), Mexico City" }
+      },
+      "email": "sofia.thompson@example.com",
+      "login": {
+        "uuid": "dbf8bda1-e28d-414a-a7c6-f7298cd89ee0",
+        "username": "blackbutterfly832",
+        "password": "fright",
+        "salt": "nFv0cIHs",
+        "md5": "5af70944edcc892e3bd3b5908f0c8945",
+        "sha1": "886c03e2070d000cc546d7659920620cd984a20c",
+        "sha256": "db944d813d8a7c533994d2a1894f76088d8e8ccb8dc8cfe23d0d93ccb4a4b823"
+      },
+      "dob": { "date": "1966-01-20T19:54:48.775Z", "age": 54 },
+      "registered": { "date": "2018-06-12T01:10:34.775Z", "age": 2 },
+      "phone": "(196)-508-9586",
+      "cell": "(771)-890-8143",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/22.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+      },
+      "nat": "NZ"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Aurora", "last": "Cortes" },
+      "job_title": "Product Group Manager",
+      "location": {
+        "street": { "number": 1547, "name": "Calle de Ferraz" },
+        "city": "Barcelona",
+        "state": "Canarias",
+        "country": "Spain",
+        "postcode": 15310,
+        "coordinates": { "latitude": "-50.1109", "longitude": "42.8852" },
+        "timezone": { "offset": "+5:00", "description": "Ekaterinburg, Islamabad, Karachi, Tashkent" }
+      },
+      "email": "aurora.cortes@example.com",
+      "login": {
+        "uuid": "4b5d5671-6ffc-4596-bb45-a4c508297c56",
+        "username": "lazylion212",
+        "password": "hassan",
+        "salt": "8CluwDsL",
+        "md5": "e9d99a6d6b720756073f2f98201082de",
+        "sha1": "fea8b88c4d60c6738eecc1f566349dc411c9cb3f",
+        "sha256": "cfacb08888749a02f9824d56c4a5cae0373792f152cf8faf115bd84f1e99b93a"
+      },
+      "dob": { "date": "1947-10-30T07:06:08.677Z", "age": 73 },
+      "registered": { "date": "2010-01-08T21:19:39.480Z", "age": 10 },
+      "phone": "940-523-843",
+      "cell": "642-786-549",
+      "id": { "name": "DNI", "value": "96529160-K" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/60.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Bartolomeu", "last": "Alves" },
+      "job_title": "Lead Web Coordinator",
+      "location": {
+        "street": { "number": 8295, "name": "Avenida Vinícius de Morais" },
+        "city": "Ji-Paraná",
+        "state": "Mato Grosso do Sul",
+        "country": "Brazil",
+        "postcode": 86735,
+        "coordinates": { "latitude": "75.1288", "longitude": "6.1720" },
+        "timezone": { "offset": "+6:00", "description": "Almaty, Dhaka, Colombo" }
+      },
+      "email": "bartolomeu.alves@example.com",
+      "login": {
+        "uuid": "ae9ee209-4aa4-40d9-a3bf-dff9c09153d1",
+        "username": "whitefish145",
+        "password": "passwd",
+        "salt": "91fmjfTr",
+        "md5": "d08ddf469ca58f97568621a1e816aa6b",
+        "sha1": "98accc8cb015507124df0d93208a8be351972787",
+        "sha256": "cab9fcef9705ff8d14a3538f3a47ad93a6d8651ea43d6c4b47cc5af808cda392"
+      },
+      "dob": { "date": "1979-10-15T06:31:47.727Z", "age": 41 },
+      "registered": { "date": "2003-07-31T18:05:21.395Z", "age": 17 },
+      "phone": "(10) 0442-7184",
+      "cell": "(22) 7022-0172",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/20.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+      },
+      "nat": "BR"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Aurora", "last": "Martinez" },
+      "job_title": "Dynamic Research Strategist",
+      "location": {
+        "street": { "number": 3623, "name": "Avenida del Planetario" },
+        "city": "Elche",
+        "state": "Canarias",
+        "country": "Spain",
+        "postcode": 86793,
+        "coordinates": { "latitude": "-71.2994", "longitude": "-141.7266" },
+        "timezone": { "offset": "-7:00", "description": "Mountain Time (US & Canada)" }
+      },
+      "email": "aurora.martinez@example.com",
+      "login": {
+        "uuid": "a8d9ad3c-e9c5-4a59-9d58-8c6931c699a7",
+        "username": "smallleopard443",
+        "password": "bounty",
+        "salt": "xexbsyvW",
+        "md5": "c8b1a6944a5c0d1b72bf32c7d0b00f93",
+        "sha1": "6073ca77804b3af55d47f79d75eef72647515d13",
+        "sha256": "008c23f1343466ace4d6cd3f82de64ce2e007373b65294ef3ea5b02cab895c63"
+      },
+      "dob": { "date": "1968-10-16T15:55:10.151Z", "age": 52 },
+      "registered": { "date": "2017-03-28T09:26:36.116Z", "age": 3 },
+      "phone": "986-614-605",
+      "cell": "634-089-029",
+      "id": { "name": "DNI", "value": "05776461-J" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Denise", "last": "George" },
+      "job_title": "Senior Group Administrator",
+      "location": {
+        "street": { "number": 2481, "name": "Shady Ln Dr" },
+        "city": "Miami",
+        "state": "Michigan",
+        "country": "United States",
+        "postcode": 19176,
+        "coordinates": { "latitude": "-14.9666", "longitude": "47.2079" },
+        "timezone": { "offset": "+6:00", "description": "Almaty, Dhaka, Colombo" }
+      },
+      "email": "denise.george@example.com",
+      "login": {
+        "uuid": "25b30bb8-7002-4b1e-8935-b832f84246d7",
+        "username": "sadgoose566",
+        "password": "painting",
+        "salt": "WKxvuFK1",
+        "md5": "af58e22ff913d62a8b6034e265f2ea18",
+        "sha1": "76b8b02251e517bbe411fa0a2885312cfd098942",
+        "sha256": "15720afa44f5bc936623b539dc294e0899ce9dbd4471c9c5f9b0a486695e3184"
+      },
+      "dob": { "date": "1962-11-19T05:41:01.796Z", "age": 58 },
+      "registered": { "date": "2016-11-08T11:56:38.063Z", "age": 4 },
+      "phone": "(151)-594-4682",
+      "cell": "(870)-838-3143",
+      "id": { "name": "SSN", "value": "944-55-0892" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/75.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Avery", "last": "Sanders" },
+      "job_title": "Central Factors Synergist",
+      "location": {
+        "street": { "number": 2528, "name": "Edwards Rd" },
+        "city": "Elk Grove",
+        "state": "Montana",
+        "country": "United States",
+        "postcode": 56042,
+        "coordinates": { "latitude": "-15.2482", "longitude": "-118.0475" },
+        "timezone": { "offset": "+5:45", "description": "Kathmandu" }
+      },
+      "email": "avery.sanders@example.com",
+      "login": {
+        "uuid": "b4570885-2ee9-4aa5-8785-342e1d6a0dbc",
+        "username": "lazypanda912",
+        "password": "shadows",
+        "salt": "EvX4dCuJ",
+        "md5": "0e5ac656d973ae4122fe11d03300f5c6",
+        "sha1": "2643b2e4b7312c4429575bf3ce08d00112fcb01f",
+        "sha256": "3ea9e7a2b2768ee8997c47389d4290e735c268c11ef9b061cd6adfd60aea1668"
+      },
+      "dob": { "date": "1955-07-26T09:25:59.860Z", "age": 65 },
+      "registered": { "date": "2015-07-29T09:49:57.344Z", "age": 5 },
+      "phone": "(490)-416-2576",
+      "cell": "(404)-028-7180",
+      "id": { "name": "SSN", "value": "696-44-7426" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/1.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Rafael", "last": "Rhodes" },
+      "job_title": "Customer Applications Developer",
+      "location": {
+        "street": { "number": 1537, "name": "Manor Road" },
+        "city": "Glasgow",
+        "state": "Wiltshire",
+        "country": "United Kingdom",
+        "postcode": "P3Q 9JE",
+        "coordinates": { "latitude": "-1.1292", "longitude": "-86.4584" },
+        "timezone": { "offset": "+9:00", "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk" }
+      },
+      "email": "rafael.rhodes@example.com",
+      "login": {
+        "uuid": "a0cb9321-6d29-4bad-9eba-3f9319385f08",
+        "username": "silverswan566",
+        "password": "doghouse",
+        "salt": "BVYSFYQ1",
+        "md5": "fad9ab6e2a76e3e981133b166f57d252",
+        "sha1": "a2aa0e471ae73827959a65bd1d7105d6d96fe5a9",
+        "sha256": "3c11302953c72db63ddd105e0ea8104c55ae99d875302233010f373752743cbf"
+      },
+      "dob": { "date": "1972-09-05T05:26:21.447Z", "age": 48 },
+      "registered": { "date": "2005-02-06T13:15:51.769Z", "age": 15 },
+      "phone": "017684 44676",
+      "cell": "0760-035-123",
+      "id": { "name": "NINO", "value": "WX 22 04 78 Z" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/25.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "شایان", "last": "كامياران" },
+      "job_title": "Senior Markets Associate",
+      "location": {
+        "street": { "number": 5831, "name": "موسیوند" },
+        "city": "قرچک",
+        "state": "کرمان",
+        "country": "Iran",
+        "postcode": 48708,
+        "coordinates": { "latitude": "6.3813", "longitude": "-73.0265" },
+        "timezone": { "offset": "+7:00", "description": "Bangkok, Hanoi, Jakarta" }
+      },
+      "email": "shyn.kmyrn@example.com",
+      "login": {
+        "uuid": "521d6e31-eb81-4ee8-aacc-1ef1e2746d22",
+        "username": "tinymeercat526",
+        "password": "wiseguy",
+        "salt": "CtNgwitn",
+        "md5": "1111dc8b8bae2f56fb3e439ecdcb651f",
+        "sha1": "5a325043719102e8b7fc3b2035050ebcbd43b58c",
+        "sha256": "6009f8638b8bc70684d195818ea656f86bda6765357d184e9ce31d7f84dcaed6"
+      },
+      "dob": { "date": "1991-10-25T23:32:52.529Z", "age": 29 },
+      "registered": { "date": "2012-11-12T07:46:16.111Z", "age": 8 },
+      "phone": "092-27729080",
+      "cell": "0908-432-2117",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/17.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+      },
+      "nat": "IR"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Lilja", "last": "Seppala" },
+      "job_title": "Regional Factors Technician",
+      "location": {
+        "street": { "number": 5149, "name": "Mannerheimintie" },
+        "city": "Pello",
+        "state": "North Karelia",
+        "country": "Finland",
+        "postcode": 80890,
+        "coordinates": { "latitude": "-75.0358", "longitude": "66.6561" },
+        "timezone": { "offset": "-4:00", "description": "Atlantic Time (Canada), Caracas, La Paz" }
+      },
+      "email": "lilja.seppala@example.com",
+      "login": {
+        "uuid": "27120f73-5574-4968-8107-a60935d7674c",
+        "username": "greenladybug888",
+        "password": "gizmo",
+        "salt": "djN0EwL8",
+        "md5": "da3e66bdd013ebe38bdeebf43d8fb1dd",
+        "sha1": "95ae7c997fccc775c868765a47a1899924988dca",
+        "sha256": "45e2d692b9007e0a70885be99b57e70719739339c6a72f4512d20ad153409d73"
+      },
+      "dob": { "date": "1954-12-10T15:36:28.490Z", "age": 66 },
+      "registered": { "date": "2016-10-24T11:24:40.024Z", "age": 4 },
+      "phone": "02-976-501",
+      "cell": "047-038-39-89",
+      "id": { "name": "HETU", "value": "NaNNA778undefined" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+      },
+      "nat": "FI"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Thomas", "last": "Coleman" },
+      "job_title": "Future Solutions Engineer",
+      "location": {
+        "street": { "number": 6712, "name": "The Crescent" },
+        "city": "Cavan",
+        "state": "Offaly",
+        "country": "Ireland",
+        "postcode": 93029,
+        "coordinates": { "latitude": "59.0345", "longitude": "50.7238" },
+        "timezone": { "offset": "+9:30", "description": "Adelaide, Darwin" }
+      },
+      "email": "thomas.coleman@example.com",
+      "login": {
+        "uuid": "87ff983f-2916-4112-8cd1-76dfd1321b4a",
+        "username": "redfrog383",
+        "password": "passwd",
+        "salt": "CNi6LbpA",
+        "md5": "c379f9be76abfd4b2800d44fafe00290",
+        "sha1": "63827e8d7f1d710874dfc60cf09ad4a761e5a014",
+        "sha256": "4a70db33dea9b91e7705e265e3de0c88387c8129b36d271baba01ec44629a602"
+      },
+      "dob": { "date": "1953-03-03T07:04:47.614Z", "age": 67 },
+      "registered": { "date": "2009-07-10T10:23:10.677Z", "age": 11 },
+      "phone": "041-578-4401",
+      "cell": "081-497-1946",
+      "id": { "name": "PPS", "value": "1906298T" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/20.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Joshua", "last": "Lecomte" },
+      "job_title": "Future Solutions Engineer",
+      "location": {
+        "street": { "number": 5139, "name": "Rue Dugas-Montbel" },
+        "city": "Nantes",
+        "state": "Haute-Loire",
+        "country": "France",
+        "postcode": 72416,
+        "coordinates": { "latitude": "79.2274", "longitude": "-75.6643" },
+        "timezone": { "offset": "-10:00", "description": "Hawaii" }
+      },
+      "email": "joshua.lecomte@example.com",
+      "login": {
+        "uuid": "0a132017-74b3-4e74-bb03-312b36a18125",
+        "username": "bigpeacock894",
+        "password": "scanner",
+        "salt": "M6N93Fc5",
+        "md5": "4c1907e5dc5e46d743bdd6efe73a618d",
+        "sha1": "f03da6274419e4f1ea79927fdce68624af186a84",
+        "sha256": "b18726ccb7cc477717b423bc0e124f02e7b1dda5dc9dd6e1b6e6edb21629f327"
+      },
+      "dob": { "date": "1972-04-01T05:24:59.728Z", "age": 48 },
+      "registered": { "date": "2002-12-15T14:10:03.372Z", "age": 18 },
+      "phone": "02-37-86-20-95",
+      "cell": "06-73-36-06-83",
+      "id": { "name": "INSEE", "value": "1NNaN57257838 83" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/99.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Leta", "last": "Frazier" },
+      "job_title": "Regional Marketing Facilitator",
+      "location": {
+        "street": { "number": 1538, "name": "Hamilton Ave" },
+        "city": "Reno",
+        "state": "Ohio",
+        "country": "United States",
+        "postcode": 78175,
+        "coordinates": { "latitude": "-57.2592", "longitude": "-88.4567" },
+        "timezone": { "offset": "+3:30", "description": "Tehran" }
+      },
+      "email": "leta.frazier@example.com",
+      "login": {
+        "uuid": "2d516046-5c2d-4867-93da-936a18470ef0",
+        "username": "redelephant970",
+        "password": "katie1",
+        "salt": "CFVmdqIZ",
+        "md5": "b86dbc26fa39b4a67a866352c7306d09",
+        "sha1": "f006aa36307dbc0987c11223d674c96828ae347e",
+        "sha256": "40ab4a0078b52204b2881d0d0e2665ee753611da56d851b6dbb9fb8e778879d7"
+      },
+      "dob": { "date": "1953-05-24T15:05:27.518Z", "age": 67 },
+      "registered": { "date": "2008-03-27T20:44:04.957Z", "age": 12 },
+      "phone": "(780)-438-3806",
+      "cell": "(900)-771-8768",
+      "id": { "name": "SSN", "value": "494-44-4679" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/24.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/24.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Joris", "last": "Hubert" },
+      "job_title": "Forward Branding Analyst",
+      "location": {
+        "street": { "number": 1740, "name": "Rue de L'Abbé-De-L'Épée" },
+        "city": "Limoges",
+        "state": "Vaucluse",
+        "country": "France",
+        "postcode": 19458,
+        "coordinates": { "latitude": "-38.0079", "longitude": "150.5791" },
+        "timezone": { "offset": "-12:00", "description": "Eniwetok, Kwajalein" }
+      },
+      "email": "joris.hubert@example.com",
+      "login": {
+        "uuid": "09bba792-5fa4-446c-bb86-1c955589dab5",
+        "username": "purplecat597",
+        "password": "carnival",
+        "salt": "jOPDE9sA",
+        "md5": "bd9dc0c4cd65afd3c8ce79970dcaa1c6",
+        "sha1": "7cac9d8dea7db564dfe78804871705a25642b767",
+        "sha256": "a08c4324c7be450e63e39cc47af22e813ba03b91e163f2aeea4d8f0e88401a21"
+      },
+      "dob": { "date": "1972-02-15T18:44:56.609Z", "age": 48 },
+      "registered": { "date": "2018-06-27T06:39:03.101Z", "age": 2 },
+      "phone": "02-92-97-66-48",
+      "cell": "06-11-21-68-28",
+      "id": { "name": "INSEE", "value": "1NNaN06025386 81" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/82.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Tristan", "last": "Larsen" },
+      "job_title": "Senior Group Architect",
+      "location": {
+        "street": { "number": 189, "name": "Ådalen" },
+        "city": "Samsø",
+        "state": "Danmark",
+        "country": "Denmark",
+        "postcode": 25767,
+        "coordinates": { "latitude": "3.3698", "longitude": "-58.6682" },
+        "timezone": { "offset": "+6:00", "description": "Almaty, Dhaka, Colombo" }
+      },
+      "email": "tristan.larsen@example.com",
+      "login": {
+        "uuid": "dc2929f6-7ad4-4dc0-95d5-176f67881cf4",
+        "username": "heavyduck334",
+        "password": "terminat",
+        "salt": "5tT4YPKc",
+        "md5": "d6502edb72cb82de381d90ce5a39ac5d",
+        "sha1": "d7ff0c06d1ef999307d4c3d0c6f449607cf88a3b",
+        "sha256": "8af385059c478302bc5d5cc75c5fdd694c4943ccb2bd795574c6c6dbfc4f679c"
+      },
+      "dob": { "date": "1976-05-14T21:44:03.630Z", "age": 44 },
+      "registered": { "date": "2005-04-01T15:43:43.600Z", "age": 15 },
+      "phone": "44618789",
+      "cell": "85617578",
+      "id": { "name": "CPR", "value": "140576-8066" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/53.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+      },
+      "nat": "DK"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Hans-Dietrich", "last": "Teuber" },
+      "job_title": "Direct Implementation Officer",
+      "location": {
+        "street": { "number": 2830, "name": "Raiffeisenstraße" },
+        "city": "Amorbach",
+        "state": "Sachsen",
+        "country": "Germany",
+        "postcode": 33386,
+        "coordinates": { "latitude": "84.9650", "longitude": "125.9414" },
+        "timezone": { "offset": "-9:00", "description": "Alaska" }
+      },
+      "email": "hans-dietrich.teuber@example.com",
+      "login": {
+        "uuid": "1cfc4348-875c-4e07-99c8-be3c06e172b3",
+        "username": "browngorilla792",
+        "password": "zanzibar",
+        "salt": "BBAMdLZp",
+        "md5": "4d531afb76add57c25fef32cf527425b",
+        "sha1": "d496193fb2e0b77b4751ad806cc6208fc683235d",
+        "sha256": "2f1298161fecd5d9cfb7fc50cb0349a7914dfbc6a8a11b1beeeef925eb955595"
+      },
+      "dob": { "date": "1986-10-16T22:18:14.134Z", "age": 34 },
+      "registered": { "date": "2009-03-22T10:54:40.862Z", "age": 11 },
+      "phone": "0599-9269957",
+      "cell": "0174-1290821",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/10.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+      },
+      "nat": "DE"
+    }
+  ],
+  "info": { "seed": "7bb48e6e72761258", "results": 20, "page": 1, "version": "1.3" }
+}
