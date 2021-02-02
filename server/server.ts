@@ -3,10 +3,13 @@ import * as path from 'path';
 import * as compression from 'compression';
 import { Request, Response } from 'express';
 
+const users = require('../../users.json');
+
 class App {
   private PORT: string | number;
   private express: express.Application = express();
   constructor(port: string | number) {
+    console.log(users);
     this.PORT = port;
     this.middleware();
     this.routes();
@@ -19,6 +22,9 @@ class App {
   }
 
   routes() {
+    this.express.get('/users', (req: Request, res: Response) => {
+      res.send(users);
+    });
     this.express.get('*', (req: Request, res: Response) => {
       res.sendFile(path.join(__dirname, '../recruiter/index.html'));
     });
